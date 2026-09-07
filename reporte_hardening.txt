@@ -1,0 +1,19 @@
+=== REPORTE DE AUDITORÍA DE RED ===
+Fecha: 2026-09-06 21:21:47
+Objetivo: 127.0.0.1
+===================================
+Puerto 21 (FTP): CERRADO - Seguro.
+Puerto 22 (SSH): CERRADO - Seguro.
+Puerto 23 (Telnet): CERRADO - Seguro.
+Puerto 25 (SMTP): CERRADO - Seguro.
+Puerto 53 (DNS): CERRADO - Seguro.
+Puerto 80 (HTTP): CERRADO - Seguro.
+Puerto 110 (POP3): CERRADO - Seguro.
+Puerto 135 (RPC): ABIERTO - Requiere revisión de Hardening.
+Puerto 139 (NetBIOS): CERRADO - Seguro.
+Puerto 443 (HTTPS): CERRADO - Seguro.
+Puerto 445 (SMB): ABIERTO - Requiere revisión de Hardening.
+Puerto 1433 (MSSQL): CERRADO - Seguro.
+Puerto 3306 (MySQL): ABIERTO - Requiere revisión de Hardening.
+Puerto 3389 (RDP (Escritorio Remoto)): CERRADO - Seguro.
+Puerto 8080 (HTTP-Alt): CERRADO - Seguro.
