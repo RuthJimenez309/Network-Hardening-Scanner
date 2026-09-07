@@ -13,6 +13,8 @@ Este proyecto consiste en un escáner de puertos activo local (mini-Nmap) desarr
 3. Ejecuta el comando:
    ```bash
    python scanner.py
+   
+<img width="900" height="339" alt="image" src="https://github.com/user-attachments/assets/5cc516c9-eb18-4fe9-a282-db76559fcf29" />
    ```
 
 ##  Resultados e Impacto
